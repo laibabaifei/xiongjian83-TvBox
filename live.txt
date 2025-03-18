@@ -2992,12 +2992,10 @@ TVB Plus,http://aktv.132.us.kg/AKTV/live/aktv/tvbplus/AKTV.m3u8$LR•IPV4『线�
 TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8$LR•IPV4『线路4』
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp$LR•IPV4『线路5』
 TVB Plus,http://bziyunshao.synology.me:8890/bysid/82$LR•IPV4『线路6』
-Channel 5,p3p://108.181.32.169:32703/642606de000ae43dede457c221b81de1$LR•IPV4『线路1』
-Channel 5,http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8$LR•IPV4『线路2』
-Channel 5,http://aktv.132.us.kg/AKTV/live/aktv/channel5hd/AKTV.m3u8$LR•IPV4『线路3』
-Channel 8,p3p://108.181.32.169:32703/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4『线路1』
-Channel 8,http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8$LR•IPV4『线路2』
-Channel 8,http://aktv.132.us.kg/AKTV/live/aktv/channel8hd/AKTV.m3u8$LR•IPV4『线路3』
+Channel 5,http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8$LR•IPV4『线路1』
+Channel 5,http://aktv.132.us.kg/AKTV/live/aktv/channel5hd/AKTV.m3u8$LR•IPV4『线路2』
+Channel 8,http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8$LR•IPV4『线路1』
+Channel 8,http://aktv.132.us.kg/AKTV/live/aktv/channel8hd/AKTV.m3u8$LR•IPV4『线路2』
 Channel U,http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8$LR•IPV4『线路1』
 Channel U,http://aktv.132.us.kg/AKTV/live/aktv/channeluhd/AKTV.m3u8$LR•IPV4『线路2』
 Astro AEC,http://aktv_stream1.m16tv.cfd/stream/aktv3/astroaec/AKTV.m3u8$LR•IPV4『线路1』
@@ -3009,8 +3007,7 @@ Astro AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd$LR•IPV4『线路3』
 Astro AOD,http://aktv.132.us.kg/AKTV/live/aktv3/astroaod/AKTV.m3u8$LR•IPV4『线路4』
 Astro Xing He,http://aktv_stream1.m16tv.cfd/stream/aktv3/astroxinghe/AKTV.m3u8$LR•IPV4『线路1』
 Astro Xing He,http://aktv.132.us.kg/AKTV/live/aktv3/astroxinghe/AKTV.m3u8$LR•IPV4『线路2』
-美亚电影台,p3p://108.181.32.169:32703/642525310003ad3cea72ca2155c734c3$LR•IPV4『线路1』
-美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$LR•IPV4『线路2』
+美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$LR•IPV4
 ViuTV,http://aktv.132.us.kg/AKTV/live/aktv2/viutv99/AKTV.m3u8$LR•IPV4『线路1』
 ViuTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8$LR•IPV4『线路2』
 ViuTV,http://cdn12.1678520.xyz/live/?id=viu$LR•IPV4『线路3』
@@ -3068,15 +3065,12 @@ KIX,http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8$LR•IPV4『线路1
 KIX,http://aktv.132.us.kg/AKTV/live/aktv3/kix/AKTV.m3u8$LR•IPV4『线路2』
 Love Nature HD,http://aktv_stream1.m16tv.cfd/stream/aktv3/lovenaturehd/AKTV.m3u8$LR•IPV4『线路1』
 Love Nature HD,http://aktv.132.us.kg/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8$LR•IPV4『线路2』
-Nick Jr,p3p://108.181.32.169:32703/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4『线路1』
-Nick Jr,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8$LR•IPV4『线路2』
-Nick Jr,http://aktv.132.us.kg/AKTV/live/aktv3/nickjr/AKTV.m3u8$LR•IPV4『线路3』
-Nickelodeon,p3p://108.181.32.169:32703/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4『线路1』
-Nickelodeon,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8$LR•IPV4『线路2』
-Nickelodeon,http://aktv.132.us.kg/AKTV/live/aktv3/nickelodeon/AKTV.m3u8$LR•IPV4『线路3』
-Thrill,p3p://108.181.32.169:32703/644a0879000272f67a89b6687af342ae$LR•IPV4『线路1』
-Thrill,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8$LR•IPV4『线路2』
-Thrill,http://aktv.132.us.kg/AKTV/live/aktv3/thrill/AKTV.m3u8$LR•IPV4『线路3』
+Nick Jr,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8$LR•IPV4『线路1』
+Nick Jr,http://aktv.132.us.kg/AKTV/live/aktv3/nickjr/AKTV.m3u8$LR•IPV4『线路2』
+Nickelodeon,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8$LR•IPV4『线路1』
+Nickelodeon,http://aktv.132.us.kg/AKTV/live/aktv3/nickelodeon/AKTV.m3u8$LR•IPV4『线路2』
+Thrill,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8$LR•IPV4『线路1』
+Thrill,http://aktv.132.us.kg/AKTV/live/aktv3/thrill/AKTV.m3u8$LR•IPV4『线路2』
 ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8$LR•IPV4『线路1』
 ZooMoo,http://aktv.132.us.kg/AKTV/live/aktv3/zoomoo/AKTV.m3u8$LR•IPV4『线路2』
 📡  台湾频道,#genre#
@@ -3112,55 +3106,43 @@ AMC电影,http://104.244.79.187:5050/litv/4gtv-4gtv017$LR•IPV4『线路3』
 CGTN,https://0472.org/hls/cgtn.m3u8$LR•IPV4『线路1』
 CGTN,http://39.134.65.106/PLTV/88888888/224/3221225510/1.m3u8?$LR•IPV4『线路2』
 CGTN,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8?$LR•IPV4『线路3』
-BBC World News,p3p://108.181.32.169:32703/6465a784000201aee66e4af152371a81$LR•IPV4
-CNA,p3p://108.181.32.169:32703/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4
-MSNBC,p3p://108.181.32.169:32703/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
-The Weather Channel,p3p://108.181.32.169:32703/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
 📡  电影频道p2p,#genre#
-CatchPlay电影台,p3p://108.181.32.169:32703/64252479000b7f1aea6ffd6177e3015c$LR•IPV4
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial$LR•IPV4
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2$LR•IPV4
-东森电影台,p3p://108.181.32.169:32703/64253899000a078deabe99ff587050b0$LR•IPV4
 纬来电影台,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$LR•IPV4
-HBO,p3p://108.181.32.169:32703/645faf2100095cb2cf1c4442765c172b$LR•IPV4『线路1』
-HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8$LR•IPV4『线路2』
+HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8$LR•IPV4
 AXN,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8$LR•IPV4
-好莱坞电影台,p3p://108.181.32.169:32703/6425244f0001184fea6f56a70aca63d2$LR•IPV4
 CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8$LR•IPV4
-BOO,p3p://108.181.32.169:32703/64137e860008ec16a58031233a436c8e$LR•IPV4
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$LR•IPV4『线路1』
-CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$LR•IPV4『线路2』
-CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$LR•IPV4『线路3』
-CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8$LR•IPV4『线路4』
-CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8$LR•IPV4『线路5』
-CHC动作电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby$LR•IPV4『线路6』
-CHC动作电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226992/86128817.smil$LR•IPV4『线路7』
-CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy$LR•IPV4『线路8』
-CHC动作电影,http://www.erbao1981.top:8188/udp/239.76.245.243:1234$LR•IPV4『线路9』
-CHC动作电影,http://live.nctv.top/IQDJpiryt/migu.php?id=chcdzdy$LR•IPV4『线路10』
-CHC动作电影,http://113.219.24.235:52888/udp/239.76.245.243:1234$LR•IPV4『线路11』
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt$LR•IPV4『线路1』
-CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$LR•IPV4『线路2』
-CHC家庭影院,http://dassby.qqff.top:99/live/CHC家庭影院/index.m3u8$LR•IPV4『线路3』
-CHC家庭影院,https://tv.bfsu.edu.cn/hls/chctv.m3u8$LR•IPV4『线路4』
-CHC家庭影院,http://api3.52tb.xyz/info?id=220&token=20221127jxwhhemby$LR•IPV4『线路5』
-CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$LR•IPV4『线路6』
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路7』
-CHC家庭影院,rtsp://115.153.233.154/PLTV/88888888/224/3221226959/86128800.smil$LR•IPV4『线路8』
-CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy$LR•IPV4『线路9』
-CHC家庭影院,http://www.erbao1981.top:8188/udp/239.76.245.241:1234$LR•IPV4『线路10』
-CHC家庭影院,http://live.nctv.top/IQDJpiryt/migu.php?id=chcjtyy$LR•IPV4『线路11』
-CHC家庭影院,http://113.219.24.235:52888/udp/239.76.245.241:1234$LR•IPV4『线路12』
+CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$LR•IPV4『线路1』
+CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$LR•IPV4『线路2』
+CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8$LR•IPV4『线路3』
+CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8$LR•IPV4『线路4』
+CHC动作电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby$LR•IPV4『线路5』
+CHC动作电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226992/86128817.smil$LR•IPV4『线路6』
+CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy$LR•IPV4『线路7』
+CHC动作电影,http://www.erbao1981.top:8188/udp/239.76.245.243:1234$LR•IPV4『线路8』
+CHC动作电影,http://live.nctv.top/IQDJpiryt/migu.php?id=chcdzdy$LR•IPV4『线路9』
+CHC动作电影,http://113.219.24.235:52888/udp/239.76.245.243:1234$LR•IPV4『线路10』
+CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$LR•IPV4『线路1』
+CHC家庭影院,http://dassby.qqff.top:99/live/CHC家庭影院/index.m3u8$LR•IPV4『线路2』
+CHC家庭影院,https://tv.bfsu.edu.cn/hls/chctv.m3u8$LR•IPV4『线路3』
+CHC家庭影院,http://api3.52tb.xyz/info?id=220&token=20221127jxwhhemby$LR•IPV4『线路4』
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$LR•IPV4『线路5』
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路6』
+CHC家庭影院,rtsp://115.153.233.154/PLTV/88888888/224/3221226959/86128800.smil$LR•IPV4『线路7』
+CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy$LR•IPV4『线路8』
+CHC家庭影院,http://www.erbao1981.top:8188/udp/239.76.245.241:1234$LR•IPV4『线路9』
+CHC家庭影院,http://live.nctv.top/IQDJpiryt/migu.php?id=chcjtyy$LR•IPV4『线路10』
+CHC家庭影院,http://113.219.24.235:52888/udp/239.76.245.241:1234$LR•IPV4『线路11』
 📡  戏剧频道p2p,#genre#
 🇨🇳数字4K,#genre#
-CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd$LR•IPV4『线路1』
-CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8$LR•IPV4『线路2』
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路3』
-CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088$LR•IPV4『线路4』
-CHC影迷电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226990/86128784.smil$LR•IPV4『线路5』
-CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy$LR•IPV4『线路6』
-CHC影迷电影,http://www.erbao1981.top:8188/udp/239.76.245.242:1234$LR•IPV4『线路7』
-CHC影迷电影,http://113.219.24.235:52888/udp/239.76.245.242:1234$LR•IPV4『线路8』
+CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8$LR•IPV4『线路1』
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路2』
+CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088$LR•IPV4『线路3』
+CHC影迷电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226990/86128784.smil$LR•IPV4『线路4』
+CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy$LR•IPV4『线路5』
+CHC影迷电影,http://www.erbao1981.top:8188/udp/239.76.245.242:1234$LR•IPV4『线路6』
+CHC影迷电影,http://113.219.24.235:52888/udp/239.76.245.242:1234$LR•IPV4『线路7』
 爱怀旧,http://193.134.211.158:50001/TVOD/6000000006000260630/wasusyt/index.m3u8$LR•IPV4
 爱喜剧,http://193.134.211.158:50001/TVOD/6000000006000010630/wasusyt/index.m3u8$LR•IPV4『线路1』
 爱喜剧,http://193.134.211.158:50001/TVOD/2000000004000000032/hnbblive/index.m3u8$LR•IPV4『线路2』
@@ -3296,12 +3278,12 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8?ws
 天龙八部,http://47.104.14.115:35455/douyu/7655471$LR•IPV4『线路7』
 天龙八部,http://2.itv.nctv.top:54321/yy/1351814644#http://47.104.14.115:35455/yy/1351814644$LR•IPV4『线路8』
 天龙八部,http://2.itv.nctv.top:54321/yy/1382749944$LR•IPV4『线路9』
-笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$LR•IPV4『线路1』
-笑傲江湖,http://2.itv.nctv.top:54321/yy/1354930909$LR•IPV4『线路2』
-笑傲江湖,http://47.104.14.115:35455/yy/1354930909$LR•IPV4『线路3』
-笑傲江湖,http://2.itv.nctv.top:54321/yy/1354930909#http://47.104.14.115:35455/yy/1354930909$LR•IPV4『线路4』
-笑傲江湖,http://live.nctv.top/IQDJpiryt/huya.php?id=23865142$LR•IPV4『线路5』
-笑傲江湖,http://47.104.14.115:35455/huya/23865142$LR•IPV4『线路6』
+笑傲江湖,http://2.itv.nctv.top:54321/yy/1354930909$LR•IPV4『线路1』
+笑傲江湖,http://47.104.14.115:35455/yy/1354930909$LR•IPV4『线路2』
+笑傲江湖,http://2.itv.nctv.top:54321/yy/1354930909#http://47.104.14.115:35455/yy/1354930909$LR•IPV4『线路3』
+笑傲江湖,http://live.nctv.top/IQDJpiryt/huya.php?id=23865142$LR•IPV4『线路4』
+笑傲江湖,http://47.104.14.115:35455/huya/23865142$LR•IPV4『线路5』
+笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$LR•IPV4『线路6』
 寻秦记,http://2.itv.nctv.top:54321/yy/1382749900#http://47.104.14.115:35455/yy/1382749900$LR•IPV4『线路1』
 寻秦记,http://2.itv.nctv.top:54321/yy/1382749900#,http://47.104.14.115:35455/yy/1382749900$LR•IPV4『线路2』
 寻秦记,http://live.nctv.top/IQDJpiryt/huya.php?id=23864973$LR•IPV4『线路3』
@@ -3742,8 +3724,8 @@ X战警系列电影,http://2.itv.nctv.top:54321/yy/1382736893$LR•IPV4
 苦乐村官,http://2.itv.nctv.top:54321/yy/1382736864$LR•IPV4
 金装四大才子,http://2.itv.nctv.top:54321/yy/1354926600$LR•IPV4
 心理追凶-港剧,http://2.itv.nctv.top:54321/yy/1354936207$LR•IPV4
-非诚勿扰,https://vip.ffzy-play2.com/20221021/162_cb2bb175/index.m3u8$LR•IPV4『线路1』
-非诚勿扰,http://2.itv.nctv.top:54321/yy/1382745100$LR•IPV4『线路2』
+非诚勿扰,http://2.itv.nctv.top:54321/yy/1382745100$LR•IPV4『线路1』
+非诚勿扰,https://vip.ffzy-play2.com/20221021/162_cb2bb175/index.m3u8$LR•IPV4『线路2』
 白夜追凶第一季,http://2.itv.nctv.top:54321/yy/1354932359$LR•IPV4
 地球上的地狱,http://2.itv.nctv.top:54321/yy/1382736918$LR•IPV4
 寻味顺德-美食纪录片,http://2.itv.nctv.top:54321/yy/1382736844$LR•IPV4
