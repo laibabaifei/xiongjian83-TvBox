@@ -2708,9 +2708,9 @@ TVB Plus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8$LR•IPV4�
 TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8$LR•IPV4『线路3』
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp$LR•IPV4『线路4』
 TVB Plus,http://bziyunshao.synology.me:8890/bysid/82$LR•IPV4『线路5』
-Channel 5,p3p://108.181.32.169:24423/642606de000ae43dede457c221b81de1$LR•IPV4『线路1』
+Channel 5,p3p://108.181.32.169:42218/642606de000ae43dede457c221b81de1$LR•IPV4『线路1』
 Channel 5,http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8$LR•IPV4『线路2』
-Channel 8,p3p://108.181.32.169:24423/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4『线路1』
+Channel 8,p3p://108.181.32.169:42218/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4『线路1』
 Channel 8,http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8$LR•IPV4『线路2』
 Channel U,http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8$LR•IPV4
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC$LR•IPV4『线路1』
@@ -2719,7 +2719,7 @@ Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod$LR•IPV4『线路1』
 Astro AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd$LR•IPV4『线路2』
 Astro AOD,http://aktv_stream1.m16tv.cfd/stream/aktv3/astroaod/AKTV.m3u8$LR•IPV4『线路3』
 Astro Xing He,http://aktv_stream1.m16tv.cfd/stream/aktv3/astroxinghe/AKTV.m3u8$LR•IPV4
-美亚电影台,p3p://108.181.32.169:24423/642525310003ad3cea72ca2155c734c3$LR•IPV4『线路1』
+美亚电影台,p3p://108.181.32.169:42218/642525310003ad3cea72ca2155c734c3$LR•IPV4『线路1』
 美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$LR•IPV4『线路2』
 ViuTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8$LR•IPV4『线路1』
 ViuTV,http://cdn12.1678520.xyz/live/?id=viu$LR•IPV4『线路2』
@@ -2750,11 +2750,11 @@ ROCK Action,http://aktv_stream1.m16tv.cfd/stream/aktv3/rockaction/AKTV.m3u8$LR�
 Animax-HK,http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8$LR•IPV4
 KIX,http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8$LR•IPV4
 Love Nature HD,http://aktv_stream1.m16tv.cfd/stream/aktv3/lovenaturehd/AKTV.m3u8$LR•IPV4
-Nick Jr,p3p://108.181.32.169:24423/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4『线路1』
+Nick Jr,p3p://108.181.32.169:42218/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4『线路1』
 Nick Jr,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8$LR•IPV4『线路2』
-Nickelodeon,p3p://108.181.32.169:24423/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4『线路1』
+Nickelodeon,p3p://108.181.32.169:42218/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4『线路1』
 Nickelodeon,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8$LR•IPV4『线路2』
-Thrill,p3p://108.181.32.169:24423/644a0879000272f67a89b6687af342ae$LR•IPV4『线路1』
+Thrill,p3p://108.181.32.169:42218/644a0879000272f67a89b6687af342ae$LR•IPV4『线路1』
 Thrill,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8$LR•IPV4『线路2』
 ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8$LR•IPV4
 📡  台湾频道,#genre#
@@ -2792,22 +2792,22 @@ CGTN,https://0472.org/hls/cgtn.m3u8$LR•IPV4『线路1』
 CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8$LR•IPV4『线路2』
 CGTN,http://39.134.65.106/PLTV/88888888/224/3221225510/1.m3u8?$LR•IPV4『线路3』
 CGTN,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8?$LR•IPV4『线路4』
-BBC World News,p3p://108.181.32.169:24423/6465a784000201aee66e4af152371a81$LR•IPV4
-CNA,p3p://108.181.32.169:24423/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4
-MSNBC,p3p://108.181.32.169:24423/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
-The Weather Channel,p3p://108.181.32.169:24423/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
+BBC World News,p3p://108.181.32.169:42218/6465a784000201aee66e4af152371a81$LR•IPV4
+CNA,p3p://108.181.32.169:42218/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4
+MSNBC,p3p://108.181.32.169:42218/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
+The Weather Channel,p3p://108.181.32.169:42218/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
 📡  电影频道p2p,#genre#
-CatchPlay电影台,p3p://108.181.32.169:24423/64252479000b7f1aea6ffd6177e3015c$LR•IPV4
+CatchPlay电影台,p3p://108.181.32.169:42218/64252479000b7f1aea6ffd6177e3015c$LR•IPV4
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial$LR•IPV4
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2$LR•IPV4
-东森电影台,p3p://108.181.32.169:24423/64253899000a078deabe99ff587050b0$LR•IPV4
+东森电影台,p3p://108.181.32.169:42218/64253899000a078deabe99ff587050b0$LR•IPV4
 纬来电影台,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$LR•IPV4
-HBO,p3p://108.181.32.169:24423/645faf2100095cb2cf1c4442765c172b$LR•IPV4『线路1』
+HBO,p3p://108.181.32.169:42218/645faf2100095cb2cf1c4442765c172b$LR•IPV4『线路1』
 HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8$LR•IPV4『线路2』
 AXN,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8$LR•IPV4
-好莱坞电影台,p3p://108.181.32.169:24423/6425244f0001184fea6f56a70aca63d2$LR•IPV4
+好莱坞电影台,p3p://108.181.32.169:42218/6425244f0001184fea6f56a70aca63d2$LR•IPV4
 CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8$LR•IPV4
-BOO,p3p://108.181.32.169:24423/64137e860008ec16a58031233a436c8e$LR•IPV4
+BOO,p3p://108.181.32.169:42218/64137e860008ec16a58031233a436c8e$LR•IPV4
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$LR•IPV4『线路1』
 CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$LR•IPV4『线路2』
 CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8$LR•IPV4『线路3』
