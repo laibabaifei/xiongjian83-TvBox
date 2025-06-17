@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-2025-06-17,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+2025-06-18,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 📡  央视频道,#genre#
 📡  卫视频道,#genre#
 📡  江西频道,#genre#

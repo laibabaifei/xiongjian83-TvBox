@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",更新日期
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="2025-06-17" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-06-17
+#EXTINF:-1 tvg-id="1" tvg-name="2025-06-18" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-06-18
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
