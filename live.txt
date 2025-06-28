@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-2025-06-28,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+2025-06-29,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 📡  央视频道,#genre#
 CCTV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?$LR•IPV6『线路1』
 CCTV1,http://58.57.40.22:9901/tsfile/live/0001_1.m3u8$LR•IPV4『线路2』
@@ -119,7 +119,6 @@ CCTV17,http://120.238.94.10:9901/tsfile/live/1048_1.m3u8$LR•IPV4『线路5』
 CCTV17,http://183.11.239.36:808/hls/35/index.m3u8$LR•IPV4『线路6』
 CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8$LR•IPV4『线路7』
 📡  卫视频道,#genre#
-凤凰资讯,https://hls-gateway.vpstv.net/streams/476958.m3u8$LR•IPV4
 湖南卫视,http://39.164.160.249:9901/tsfile/live/0128_1.m3u8$LR•IPV4『线路1』
 湖南卫视,http://58.17.48.228:808/hls/31/index.m3u8$LR•IPV4『线路2』
 湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8$LR•IPV4『线路3』
@@ -359,10 +358,8 @@ CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8$LR•IPV4『线路7』
 第一财经,http://ls.qingting.fm/live/276.m3u8$LR•IPV4『线路3』
 第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb$LR•IPV4『线路4』
 东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb$LR•IPV4
-五星体育,https://hls-gateway.vpstv.net/streams/636980.m3u8$LR•IPV4
-动漫秀场,https://hls-gateway.vpstv.net/streams/708843.m3u8$LR•IPV4『线路1』
-动漫秀场,http://nas.hssvm.com:8888/udp/225.1.1.134:5002$LR•IPV4『线路2』
-动漫秀场,http://36.105.100.208:35455/itv/5000000011000031113.m3u8?cdn=bestzb$LR•IPV4『线路3』
+动漫秀场,http://nas.hssvm.com:8888/udp/225.1.1.134:5002$LR•IPV4『线路1』
+动漫秀场,http://36.105.100.208:35455/itv/5000000011000031113.m3u8?cdn=bestzb$LR•IPV4『线路2』
 哈哈炫动,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226931/1.m3u8$LR•IPV6『线路1』
 哈哈炫动,http://58.57.40.22:9901/tsfile/live/1061_1.m3u8$LR•IPV4『线路2』
 哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8$LR•IPV4『线路3』
@@ -405,15 +402,13 @@ CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8$LR•IPV4『线路7』
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8$LR•IPV4『线路3』
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8$LR•IPV4『线路4』
 广东珠江,http://36.105.100.208:35455/itv/2000000003000000033.m3u8?cdn=hnbblive$LR•IPV4『线路5』
-广东新闻,https://hls-gateway.vpstv.net/streams/708873.m3u8$LR•IPV4『线路1』
-广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8$LR•IPV4『线路2』
-广东新闻,http://119.32.12.17:2901/udp/224.1.100.5:11111$LR•IPV4『线路3』
+广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8$LR•IPV4『线路1』
+广东新闻,http://119.32.12.17:2901/udp/224.1.100.5:11111$LR•IPV4『线路2』
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8$LR•IPV4『线路1』
 广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111$LR•IPV4『线路2』
-广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8$LR•IPV4『线路1』
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$LR•IPV4『线路2』
-广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$LR•IPV4『线路3』
-广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111$LR•IPV4『线路4』
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$LR•IPV4『线路1』
+广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$LR•IPV4『线路2』
+广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111$LR•IPV4『线路3』
 广东影视,http://119.32.12.17:2901/udp/224.1.100.11:11111$LR•IPV4
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8$LR•IPV4『线路1』
 广东少儿,http://119.32.12.17:2901/udp/224.1.100.9:11111$LR•IPV4『线路2』
@@ -474,67 +469,14 @@ CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8$LR•IPV4『线路7』
 南宁公共,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae$LR•IPV4『线路2』
 桂林新闻,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188$LR•IPV4
 📡  香港频道,#genre#
-Channel 5,https://smart.pendy.dpdns.org/Smart.php?id=Channel5HD$LR•IPV4『线路1』
-Channel 5,https://hls-gateway.vpstv.net/streams/476325.m3u8$LR•IPV4『线路2』
-Channel 8,https://smart.pendy.dpdns.org/Smart.php?id=Channel8HD$LR•IPV4『线路1』
-Channel 8,https://hls-gateway.vpstv.net/streams/477032.m3u8$LR•IPV4『线路2』
-Channel U,https://smart.pendy.dpdns.org/Smart.php?id=ChannelU$LR•IPV4『线路1』
-Channel U,https://hls-gateway.vpstv.net/streams/476327.m3u8$LR•IPV4『线路2』
-Astro AEC,https://hls-gateway.vpstv.net/streams/709009.m3u8$LR•IPV4
-美亚电影台,https://hls-gateway.vpstv.net/streams/709286.m3u8$LR•IPV4『线路1』
-美亚电影台,https://hls-gateway.vpstv.net/streams/708901.m3u8$LR•IPV4『线路2』
-中天新闻,https://hls-gateway.vpstv.net/streams/477695.m3u8$LR•IPV4
-寰宇新闻台,https://hls-gateway.vpstv.net/streams/476270.m3u8$LR•IPV4
-Nick Jr,https://smart.pendy.dpdns.org/Smart.php?id=Nickjr$LR•IPV4『线路1』
-Nick Jr,https://hls-gateway.vpstv.net/streams/605088.m3u8$LR•IPV4『线路2』
-Nick Jr,https://hls-gateway.vpstv.net/streams/709480.m3u8$LR•IPV4『线路3』
-Nickelodeon,https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon$LR•IPV4『线路1』
-Nickelodeon,https://hls-gateway.vpstv.net/streams/477714.m3u8$LR•IPV4『线路2』
-Thrill,https://smart.pendy.dpdns.org/Smart.php?id=Thrill$LR•IPV4
 📡  台湾频道,#genre#
-民视旅游,https://hls-gateway.vpstv.net/streams/476240.m3u8$LR•IPV4
-公视戏剧,https://hls-gateway.vpstv.net/streams/476298.m3u8$LR•IPV4
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$LR•IPV4
-龙华电影,https://hls-gateway.vpstv.net/streams/476300.m3u8$LR•IPV4『线路1』
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8$LR•IPV4『线路2』
-龙华日韩,https://hls-gateway.vpstv.net/streams/476231.m3u8$LR•IPV4
-龙华戏剧,https://hls-gateway.vpstv.net/streams/476293.m3u8$LR•IPV4
-龙华经典,https://hls-gateway.vpstv.net/streams/476294.m3u8$LR•IPV4
-靖洋戏剧,https://hls-gateway.vpstv.net/streams/476285.m3u8$LR•IPV4
-靖洋卡通,https://hls-gateway.vpstv.net/streams/476248.m3u8$LR•IPV4
-博斯魅力,https://hls-gateway.vpstv.net/streams/477598.m3u8$LR•IPV4
-博斯高球2,https://hls-gateway.vpstv.net/streams/477073.m3u8$LR•IPV4
-博斯网球,https://hls-gateway.vpstv.net/streams/477602.m3u8$LR•IPV4
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8$LR•IPV4
 📡  新闻频道p2p,#genre#
-CNN,https://hls-gateway.vpstv.net/streams/488932.m3u8$LR•IPV4
-TVBS新闻台,https://hls-gateway.vpstv.net/streams/708927.m3u8$LR•IPV4
-CGTN,https://hls-gateway.vpstv.net/streams/709501.m3u8$LR•IPV4『线路1』
-CGTN,https://hls-gateway.vpstv.net/streams/709650.m3u8$LR•IPV4『线路2』
-CGTN,https://0472.org/hls/cgtn.m3u8$LR•IPV4『线路3』
-CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$LR•IPV4『线路4』
-CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8$LR•IPV4『线路5』
-BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn$LR•IPV4『线路1』
-BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews$LR•IPV4『线路2』
-BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik$LR•IPV4『线路3』
-CNBC,https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn$LR•IPV4『线路1』
-CNBC,https://hls-gateway.vpstv.net/streams/709287.m3u8$LR•IPV4『线路2』
-CNA,https://smart.pendy.dpdns.org/Smart.php?id=cna$LR•IPV4
-Euronews,https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik$LR•IPV4『线路1』
-Euronews,https://hls-gateway.vpstv.net/streams/476329.m3u8$LR•IPV4『线路2』
-Fox News,https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn$LR•IPV4『线路1』
-Fox News,https://hls-gateway.vpstv.net/streams/709279.m3u8$LR•IPV4『线路2』
-ABC Australia,https://hls-gateway.vpstv.net/streams/709547.m3u8$LR•IPV4
-MSNBC,https://hls-gateway.vpstv.net/streams/709281.m3u8$LR•IPV4
-CTV News,https://hls-gateway.vpstv.net/streams/476684.m3u8$LR•IPV4
+CGTN,https://0472.org/hls/cgtn.m3u8$LR•IPV4『线路1』
+CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$LR•IPV4『线路2』
+CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8$LR•IPV4『线路3』
 📡  电影频道p2p,#genre#
-靖天电影台,https://hls-gateway.vpstv.net/streams/476290.m3u8$LR•IPV4
-WARNER TV,https://hls-gateway.vpstv.net/streams/708986.m3u8$LR•IPV4
-HBO Family,https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily$LR•IPV4
-天映频道,https://hls-gateway.vpstv.net/streams/636710.m3u8$LR•IPV4
-HBO,https://hls-gateway.vpstv.net/streams/602196.m3u8$LR•IPV4
-AXN,https://hls-gateway.vpstv.net/streams/602163.m3u8$LR•IPV4
-CINEMAX,https://hls-gateway.vpstv.net/streams/476283.m3u8$LR•IPV4『线路1』
-CINEMAX,https://hls-gateway.vpstv.net/streams/709596.m3u8$LR•IPV4『线路2』
 CHC动作电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8$LR•IPV6『线路1』
 CHC动作电影,http://fn.tmde.top:35455/mgtv/644368714.m3u8$LR•IPV4『线路2』
 CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8$LR•IPV4『线路3』
@@ -547,7 +489,6 @@ CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002$LR•IPV4『线�
 CHC家庭影院,http://fn.tmde.top:35455/mgtv/644368373.m3u8$LR•IPV4『线路4』
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路5』
 📡  戏剧频道p2p,#genre#
-三立戏剧台,https://hls-gateway.vpstv.net/streams/476288.m3u8$LR•IPV4
 🇨🇳数字4K,#genre#
 CHC影迷电影,http://fn.tmde.top:35455/mgtv/952383261.m3u8$LR•IPV4『线路1』
 CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8$LR•IPV4『线路2』
@@ -555,8 +496,6 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&play
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8$LR•IPV4
 乐游,http://112.46.105.20:8009/hls/75/index.m3u8$LR•IPV4
 🇨🇳虎牙直播,#genre#
-王者荣耀,https://hls-gateway.vpstv.net/streams/483400.m3u8$LR•IPV4
-笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$LR•IPV4
 🇨🇳斗鱼直播,#genre#
 邵氏影院,http://home.kuaidi521.com:35455/douyu/4246519$LR•IPV4
 奶虫影院,http://home.kuaidi521.com:35455/douyu/263824$LR•IPV4
@@ -564,7 +503,6 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&play
 谈判专家,http://43.138.0.72:35455/yy/1382735560$LR•IPV4
 🇨🇳 YY频道,#genre#
 漫画解说,https://www.goodiptv.club/douyu/5907076$LR•IPV4
-非诚勿扰,https://vip.ffzy-play2.com/20221021/162_cb2bb175/index.m3u8$LR•IPV4
 🇨🇳埋堆堆（港剧）,#genre#
 🇨🇳 NewTV,#genre#
 黑莓电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8$LR•IPV6『线路1』
