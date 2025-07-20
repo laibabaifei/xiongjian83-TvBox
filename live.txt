@@ -461,18 +461,24 @@ CCTV17,http://113.57.111.4:1111/tsfile/live/1014_1.m3u8$LR•IPV4『线路8』
 📡  广西频道,#genre#
 南宁公共,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae$LR•IPV4
 📡  香港频道,#genre#
-Channel 5,http://free.cnlive.club/channel/2f64b875.m3u8$LR•IPV4
-Channel 8,http://free.cnlive.club/channel/2f64b878.m3u8$LR•IPV4
-Channel U,http://free.cnlive.club/channel/2f64b895.m3u8$LR•IPV4
+Channel 5,http://free.cnlive.club/channel/2f64b875.m3u8$LR•IPV4『线路1』
+Channel 5,https://smart.pendy.dpdns.org/Smart.php?id=Channel5HD$LR•IPV4『线路2』
+Channel 8,http://free.cnlive.club/channel/2f64b878.m3u8$LR•IPV4『线路1』
+Channel 8,https://smart.pendy.dpdns.org/Smart.php?id=Channel8HD$LR•IPV4『线路2』
+Channel U,http://free.cnlive.club/channel/2f64b895.m3u8$LR•IPV4『线路1』
+Channel U,https://smart.pendy.dpdns.org/Smart.php?id=ChannelU$LR•IPV4『线路2』
 Nick Jr,http://free.cnlive.club/channel/n75fc9ff7.m3u8$LR•IPV4『线路1』
 Nick Jr,http://free.cnlive.club/channel/20599755.m3u8$LR•IPV4『线路2』
 Nick Jr,http://free.cnlive.club/channel/n7234a5b3.m3u8$LR•IPV4『线路3』
+Nick Jr,https://smart.pendy.dpdns.org/Smart.php?id=Nickjr$LR•IPV4『线路4』
 Nickelodeon,http://free.cnlive.club/channel/n6a165737.m3u8$LR•IPV4『线路1』
 Nickelodeon,http://free.cnlive.club/channel/1c7b5a15.m3u8$LR•IPV4『线路2』
 Nickelodeon,http://free.cnlive.club/channel/24e2e10d.m3u8$LR•IPV4『线路3』
+Nickelodeon,https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon$LR•IPV4『线路4』
 Thrill,http://free.cnlive.club/channel/n7cf4bd6f.m3u8$LR•IPV4『线路1』
 Thrill,http://free.cnlive.club/channel/2e30b49e.m3u8$LR•IPV4『线路2』
 Thrill,http://free.cnlive.club/channel/n2b05b19d.m3u8$LR•IPV4『线路3』
+Thrill,https://smart.pendy.dpdns.org/Smart.php?id=Thrill$LR•IPV4『线路4』
 📡  台湾频道,#genre#
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$LR•IPV4
 龙华电影,http://free.cnlive.club/channel/n5e8ca809.m3u8$LR•IPV4『线路1』
@@ -486,16 +492,24 @@ CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$LR•IPV4『线路4�
 BBC World News,http://free.cnlive.club/channel/n66a1746b.m3u8$LR•IPV4『线路1』
 BBC World News,http://free.cnlive.club/channel/2e8ad8ee.m3u8$LR•IPV4『线路2』
 BBC World News,http://free.cnlive.club/channel/361e4ef6.m3u8$LR•IPV4『线路3』
+BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn$LR•IPV4『线路4』
+BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews$LR•IPV4『线路5』
+BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik$LR•IPV4『线路6』
 CNBC,http://free.cnlive.club/channel/n33765cdd.m3u8$LR•IPV4『线路1』
 CNBC,http://free.cnlive.club/channel/n1b02e444.m3u8$LR•IPV4『线路2』
 CNBC,http://free.cnlive.club/channel/7b42fbc4.m3u8$LR•IPV4『线路3』
+CNBC,https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn$LR•IPV4『线路4』
 CNA,http://free.cnlive.club/channel/n43b97ee1.m3u8$LR•IPV4『线路1』
 CNA,http://free.cnlive.club/channel/4e9c8333.m3u8$LR•IPV4『线路2』
 CNA,http://free.cnlive.club/channel/fa51166.m3u8$LR•IPV4『线路3』
-Euronews,http://free.cnlive.club/channel/19750d38.m3u8$LR•IPV4
-Fox News,http://free.cnlive.club/channel/n41640285.m3u8$LR•IPV4
+CNA,https://smart.pendy.dpdns.org/Smart.php?id=cna$LR•IPV4『线路4』
+Euronews,http://free.cnlive.club/channel/19750d38.m3u8$LR•IPV4『线路1』
+Euronews,https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik$LR•IPV4『线路2』
+Fox News,http://free.cnlive.club/channel/n41640285.m3u8$LR•IPV4『线路1』
+Fox News,https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn$LR•IPV4『线路2』
 📡  电影频道p2p,#genre#
-HBO Family,http://free.cnlive.club/channel/n50b4438b.m3u8$LR•IPV4
+HBO Family,http://free.cnlive.club/channel/n50b4438b.m3u8$LR•IPV4『线路1』
+HBO Family,https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily$LR•IPV4『线路2』
 天映频道,http://free.cnlive.club/channel/n7e466c41.m3u8$LR•IPV4
 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8$LR•IPV4
 CINEMAX,http://free.cnlive.club/channel/2420c041.m3u8$LR•IPV4
