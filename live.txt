@@ -403,6 +403,12 @@ CCTV女性时尚,https://cc06.tv12.xyz/95.m3u8$LR•IPV4
 南宁公共,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae$LR•IPV4
 桂林新闻,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188$LR•IPV4
 📡  香港频道,#genre#
+Channel 5,https://pixman.mytvsuper.com.mp/Smart.php?id=Channel5HD$LR•IPV4
+Channel 8,https://pixman.mytvsuper.com.mp/Smart.php?id=Channel8HD$LR•IPV4
+Channel U,https://pixman.mytvsuper.com.mp/Smart.php?id=ChannelU$LR•IPV4
+Nick Jr,https://pixman.mytvsuper.com.mp/Smart.php?id=Nickjr$LR•IPV4
+Nickelodeon,https://pixman.mytvsuper.com.mp/Smart.php?id=Nickelodeon$LR•IPV4
+Thrill,https://pixman.mytvsuper.com.mp/Smart.php?id=Thrill$LR•IPV4
 📡  台湾频道,#genre#
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$LR•IPV4
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8$LR•IPV4
@@ -410,7 +416,15 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$LR•IPV4
 📡  新闻频道p2p,#genre#
 CGTN,https://0472.org/hls/cgtn.m3u8$LR•IPV4『线路1』
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$LR•IPV4『线路2』
+BBC World News,https://pixman.mytvsuper.com.mp/Smart.php?id=bbcnews_twn$LR•IPV4『线路1』
+BBC World News,https://pixman.mytvsuper.com.mp/Smart.php?id=Bbcnews$LR•IPV4『线路2』
+BBC World News,https://pixman.mytvsuper.com.mp/Smart.php?id=bbcworldnews_antik$LR•IPV4『线路3』
+CNBC,https://pixman.mytvsuper.com.mp/Smart.php?id=cnbc_twn$LR•IPV4
+CNA,https://pixman.mytvsuper.com.mp/Smart.php?id=cna$LR•IPV4
+Euronews,https://pixman.mytvsuper.com.mp/Smart.php?id=euronews_antik$LR•IPV4
+Fox News,https://pixman.mytvsuper.com.mp/Smart.php?id=foxnews_twn$LR•IPV4
 📡  电影频道p2p,#genre#
+HBO Family,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbofamily$LR•IPV4
 天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy$LR•IPV4
 CHC动作电影,http://atcq62.3950.cn:35455/mgtv/644368714.m3u8$LR•IPV4『线路1』
 CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8$LR•IPV4『线路2』
@@ -431,6 +445,7 @@ CHC影迷电影,http://atcq62.3950.cn:35455/mgtv/952383261.m3u8$LR•IPV4
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2$LR•IPV4『线路1』
 JJ斗地主,https://live.iill.top/douyin/685317364746$LR•IPV4『线路2』
 神雕侠侣,http://iptv.jxpan.vip:18888/aio/huya/23865171$LR•IPV4
+笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$LR•IPV4
 🇨🇳斗鱼直播,#genre#
 邵氏影院,http://iptv.jxpan.vip:18888/aio/douyu/4246519$LR•IPV4
 恐怖电影,https://mursor.ottiptv.cc/yy/24066336$LR•IPV4
@@ -442,6 +457,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746$LR•IPV4『线路2』
 🇨🇳 YY频道,#genre#
 漫画解说,https://mursor.ottiptv.cc/yy/1382735568$LR•IPV4『线路1』
 漫画解说,https://www.goodiptv.club/douyu/5907076$LR•IPV4『线路2』
+非诚勿扰,https://vip.ffzy-play2.com/20221021/162_cb2bb175/index.m3u8$LR•IPV4
 🇨🇳埋堆堆（港剧）,#genre#
 楚汉骄雄,http://iptv.jxpan.vip:18888/aio/huya/29465854$LR•IPV4
 刑事侦缉档案,http://iptv.jxpan.vip:18888/aio/huya/29465856$LR•IPV4
