@@ -359,6 +359,7 @@ CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8$LR•IPV4『线路
 广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493$LR•IPV4
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8$LR•IPV4『线路1』
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca$LR•IPV4『线路2』
+深圳少儿频道,http://atsj.tv.inf.ua/php/gd.php?id=szse$LR•IPV4
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8$LR•IPV4
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8$LR•IPV4
 📡  湖南频道,#genre#
@@ -436,6 +437,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 JJ斗地主,https://live.iill.top/douyin/685317364746$LR•IPV4『线路2』
 射雕英雄传,http://iptv.jxpan.vip:18888/aio/huya/23824164$LR•IPV4
 神雕侠侣,http://iptv.jxpan.vip:18888/aio/huya/23865171$LR•IPV4
+笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$LR•IPV4
 寻秦记,http://iptv.jxpan.vip:18888/aio/huya/29465848$LR•IPV4
 🇨🇳斗鱼直播,#genre#
 邵氏影院,http://iptv.jxpan.vip:18888/aio/douyu/4246519$LR•IPV4
@@ -447,6 +449,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746$LR•IPV4『线路2』
 🇨🇳 YY频道,#genre#
 大唐双龙传,http://iptv.jxpan.vip:18888/aio/huya/29465850$LR•IPV4
 漫画解说,https://www.goodiptv.club/douyu/5907076$LR•IPV4
+非诚勿扰,https://vip.ffzy-play2.com/20221021/162_cb2bb175/index.m3u8$LR•IPV4
 🇨🇳埋堆堆（港剧）,#genre#
 楚汉骄雄,http://iptv.jxpan.vip:18888/aio/huya/29465854$LR•IPV4
 刑事侦缉档案,http://iptv.jxpan.vip:18888/aio/huya/29465856$LR•IPV4
