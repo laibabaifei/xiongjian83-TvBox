@@ -1,8 +1,8 @@
-2025-10-01 16:18:03,796 - ERROR - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt
-2025-10-01 16:18:04,090 - ERROR - url: http://rihou.cc:567/gggg.nzk 爬取失败❌, Error: HTTPConnectionPool(host='rihou.cc', port=567): Max retries exceeded with url: /gggg.nzk (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f386a8c36a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
-2025-10-01 16:18:04,127 - ERROR - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps:/jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php
-2025-10-01 16:18:04,607 - INFO - url: https://live.zbds.top/tv/iptv6.txt 获取成功，判断为txt格式
-2025-10-01 16:18:04,608 - INFO - url: https://live.zbds.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 地方频道, 体育频道, 更新时间
-2025-10-01 16:18:04,717 - INFO - url: https://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
-2025-10-01 16:18:04,722 - INFO - url: https://live.zbds.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 直播中国, 更新时间
-2025-10-01 16:18:05,673 - ERROR - url: http://live.nctv.top/x.png 爬取失败❌, Error: 404 Client Error: Not Found for url: http://live.nctv.top/x.png
+2025-10-02 02:18:44,775 - ERROR - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt
+2025-10-02 02:18:45,068 - ERROR - url: http://rihou.cc:567/gggg.nzk 爬取失败❌, Error: HTTPConnectionPool(host='rihou.cc', port=567): Max retries exceeded with url: /gggg.nzk (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f59862036a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-10-02 02:18:45,155 - ERROR - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps:/jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php
+2025-10-02 02:18:45,793 - INFO - url: https://live.zbds.top/tv/iptv6.txt 获取成功，判断为txt格式
+2025-10-02 02:18:45,793 - INFO - url: https://live.zbds.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 地方频道, 体育频道, 更新时间
+2025-10-02 02:18:45,990 - INFO - url: https://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
+2025-10-02 02:18:45,993 - INFO - url: https://live.zbds.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 直播中国, 更新时间
+2025-10-02 02:18:46,839 - ERROR - url: http://live.nctv.top/x.png 爬取失败❌, Error: 404 Client Error: Not Found for url: http://live.nctv.top/x.png
