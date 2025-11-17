@@ -1,9 +1,9 @@
-2025-11-17 09:06:17,332 - ERROR - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt
-2025-11-17 09:06:20,986 - INFO - url: http://rihou.cc:567/gggg.nzk 获取成功，判断为txt格式
-2025-11-17 09:06:20,998 - INFO - url: http://rihou.cc:567/gggg.nzk 爬取成功✅，包含频道分类: NBA赛评, 全运赛场, 赛事全运, 赛事咪咕, 央卫咪咕, 欣赏频道, 新剧追更, 特闽频晴, 央卫频沪, 特区频道, 闽南频波, 抖音网页, 央卫高码, 荔枝网页, 虎牙频道, 爱奇频道, 特区粤央, 特区酒店, 特区地波, 广州电信, 广东广电, 广东宽频, 童年频道, 广东频道, 梅州移动, 欣赏音乐, 追剧全集, 亮剑全集, 雪豹全集, 凡人修仙, 华山论剑, Q-三国粤, 大时代粤, 流星花园, 还珠格格, 甄嬛传国, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 赛事频陆, 央卫频陆, 特区频陆, 闽南频陆, 新闻频陆, 跑马频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆, 猫TV影视
-2025-11-17 09:06:21,057 - ERROR - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps:/jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php
-2025-11-17 09:06:21,363 - INFO - url: https://live.zbds.top/tv/iptv6.txt 获取成功，判断为txt格式
-2025-11-17 09:06:21,363 - INFO - url: https://live.zbds.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 更新时间
-2025-11-17 09:06:21,441 - INFO - url: https://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
-2025-11-17 09:06:21,445 - INFO - url: https://live.zbds.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 直播中国, 更新时间
-2025-11-17 09:06:22,378 - ERROR - url: http://live.nctv.top/x.png 爬取失败❌, Error: 404 Client Error: Not Found for url: http://live.nctv.top/x.png
+2025-11-17 16:20:38,063 - ERROR - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt
+2025-11-17 16:20:41,567 - INFO - url: http://rihou.cc:567/gggg.nzk 获取成功，判断为txt格式
+2025-11-17 16:20:41,574 - INFO - url: http://rihou.cc:567/gggg.nzk 爬取成功✅，包含频道分类: 全运赛场, 赛事全运, 赛事咪咕, 央卫咪咕, NBA赛评, 欣赏频道, 新剧追更, 特闽频晴, 央卫频沪, 特区频道, 闽南频波, 抖音网页, 央卫高码, 荔枝网页, 虎牙频道, 爱奇频道, 特区粤央, 特区酒店, 特区地波, 广州电信, 广东广电, 广东宽频, 童年频道, 广东频道, 梅州移动, 欣赏音乐, 追剧全集, 亮剑全集, 雪豹全集, 凡人修仙, 华山论剑, Q-三国粤, 大时代粤, 流星花园, 还珠格格, 甄嬛传国, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 猫TV影视
+2025-11-17 16:20:41,678 - ERROR - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps:/jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php
+2025-11-17 16:20:42,037 - INFO - url: https://live.zbds.top/tv/iptv6.txt 获取成功，判断为txt格式
+2025-11-17 16:20:42,037 - INFO - url: https://live.zbds.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 更新时间
+2025-11-17 16:20:42,166 - INFO - url: https://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
+2025-11-17 16:20:42,171 - INFO - url: https://live.zbds.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 直播中国, 更新时间
+2025-11-17 16:20:43,045 - ERROR - url: http://live.nctv.top/x.png 爬取失败❌, Error: 404 Client Error: Not Found for url: http://live.nctv.top/x.png
