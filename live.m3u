@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",更新日期
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="2025-11-25" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-11-25
+#EXTINF:-1 tvg-id="1" tvg-name="2025-11-26" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-11-26
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📡  央视频道",CCTV1
 http://58.57.40.22:9901/tsfile/live/0001_1.m3u8$LR•IPV4『线路1』
@@ -762,17 +762,29 @@ https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e657
 #EXTINF:-1 tvg-id="2" tvg-name="桂林新闻" tvg-logo="https://live.fanmingming.com/tv/桂林新闻.png" group-title="📡  广西频道",桂林新闻
 https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 5" tvg-logo="https://live.fanmingming.com/tv/Channel 5.png" group-title="📡  香港频道",Channel 5
-https://tzh911.qzz.io/play-smt.php?id=Channel5HD$LR•IPV4
+https://tzh911.qzz.io/play-smt.php?id=Channel5HD$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 5" tvg-logo="https://live.fanmingming.com/tv/Channel 5.png" group-title="📡  香港频道",Channel 5
+http://156.239.254.7:5555/smt.php?id=Channel5HD$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 8" tvg-logo="https://live.fanmingming.com/tv/Channel 8.png" group-title="📡  香港频道",Channel 8
-https://tzh911.qzz.io/play-smt.php?id=Channel8HD$LR•IPV4
+https://tzh911.qzz.io/play-smt.php?id=Channel8HD$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 8" tvg-logo="https://live.fanmingming.com/tv/Channel 8.png" group-title="📡  香港频道",Channel 8
+http://156.239.254.7:5555/smt.php?id=Channel8HD$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Channel U" tvg-logo="https://live.fanmingming.com/tv/Channel U.png" group-title="📡  香港频道",Channel U
-https://tzh911.qzz.io/play-smt.php?id=ChannelU$LR•IPV4
+https://tzh911.qzz.io/play-smt.php?id=ChannelU$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Channel U" tvg-logo="https://live.fanmingming.com/tv/Channel U.png" group-title="📡  香港频道",Channel U
+http://156.239.254.7:5555/smt.php?id=ChannelU$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/Nick Jr.png" group-title="📡  香港频道",Nick Jr
-https://tzh911.qzz.io/play-smt.php?id=Nickjr$LR•IPV4
+https://tzh911.qzz.io/play-smt.php?id=Nickjr$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/Nick Jr.png" group-title="📡  香港频道",Nick Jr
+http://156.239.254.7:5555/smt.php?id=Nickjr$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="📡  香港频道",Nickelodeon
-https://tzh911.qzz.io/play-smt.php?id=Nickelodeon$LR•IPV4
+https://tzh911.qzz.io/play-smt.php?id=Nickelodeon$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="📡  香港频道",Nickelodeon
+http://156.239.254.7:5555/smt.php?id=Nickelodeon$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Thrill" tvg-logo="https://live.fanmingming.com/tv/Thrill.png" group-title="📡  香港频道",Thrill
-https://tzh911.qzz.io/play-smt.php?id=Thrill$LR•IPV4
+https://tzh911.qzz.io/play-smt.php?id=Thrill$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Thrill" tvg-logo="https://live.fanmingming.com/tv/Thrill.png" group-title="📡  香港频道",Thrill
+http://156.239.254.7:5555/smt.php?id=Thrill$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="AMC电影" tvg-logo="https://live.fanmingming.com/tv/AMC电影.png" group-title="📡  台湾频道",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="📡  台湾频道",靖天映画
@@ -794,17 +806,33 @@ https://tzh911.qzz.io/play-smt.php?id=bbcnews_twn$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
 https://tzh911.qzz.io/play-smt.php?id=Bbcnews$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
-https://tzh911.qzz.io/play-smt.php?id=bbcworldnews_antik$LR•IPV4『线路3』
+http://156.239.254.7:5555/smt.php?id=bbcnews_twn$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
+http://156.239.254.7:5555/smt.php?id=Bbcnews$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
+https://tzh911.qzz.io/play-smt.php?id=bbcworldnews_antik$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
+http://156.239.254.7:5555/smt.php?id=bbcworldnews_antik$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="📡  新闻频道p2p",CNBC
-https://tzh911.qzz.io/play-smt.php?id=cnbc_twn$LR•IPV4
+https://tzh911.qzz.io/play-smt.php?id=cnbc_twn$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="📡  新闻频道p2p",CNBC
+http://156.239.254.7:5555/smt.php?id=cnbc_twn$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="CNA" tvg-logo="https://live.fanmingming.com/tv/CNA.png" group-title="📡  新闻频道p2p",CNA
-https://tzh911.qzz.io/play-smt.php?id=cna$LR•IPV4
+https://tzh911.qzz.io/play-smt.php?id=cna$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CNA" tvg-logo="https://live.fanmingming.com/tv/CNA.png" group-title="📡  新闻频道p2p",CNA
+http://156.239.254.7:5555/smt.php?id=cna$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/Euronews.png" group-title="📡  新闻频道p2p",Euronews
-https://tzh911.qzz.io/play-smt.php?id=euronews_antik$LR•IPV4
+https://tzh911.qzz.io/play-smt.php?id=euronews_antik$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/Euronews.png" group-title="📡  新闻频道p2p",Euronews
+http://156.239.254.7:5555/smt.php?id=euronews_antik$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Fox News" tvg-logo="https://live.fanmingming.com/tv/Fox News.png" group-title="📡  新闻频道p2p",Fox News
-https://tzh911.qzz.io/play-smt.php?id=foxnews_twn$LR•IPV4
+https://tzh911.qzz.io/play-smt.php?id=foxnews_twn$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Fox News" tvg-logo="https://live.fanmingming.com/tv/Fox News.png" group-title="📡  新闻频道p2p",Fox News
+http://156.239.254.7:5555/smt.php?id=foxnews_twn$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="HBO Family" tvg-logo="https://live.fanmingming.com/tv/HBO Family.png" group-title="📡  电影频道p2p",HBO Family
-https://tzh911.qzz.io/play-smt.php?id=Hbofamily$LR•IPV4
+https://tzh911.qzz.io/play-smt.php?id=Hbofamily$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="HBO Family" tvg-logo="https://live.fanmingming.com/tv/HBO Family.png" group-title="📡  电影频道p2p",HBO Family
+http://156.239.254.7:5555/smt.php?id=Hbofamily$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="📡  电影频道p2p",CHC动作电影
 http://113.195.172.192:808/hls/114/index.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="📡  电影频道p2p",CHC动作电影

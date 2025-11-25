@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-2025-11-25,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+2025-11-26,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 📡  央视频道,#genre#
 CCTV1,http://58.57.40.22:9901/tsfile/live/0001_1.m3u8$LR•IPV4『线路1』
 CCTV1,http://play.kankanlive.com/live/1661761962676984.m3u8$LR•IPV4『线路2』
@@ -400,12 +400,18 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8$LR•IPV4『线路5』
 桂林新闻,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188$LR•IPV4『线路1』
 桂林新闻,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188$LR•IPV4『线路2』
 📡  香港频道,#genre#
-Channel 5,https://tzh911.qzz.io/play-smt.php?id=Channel5HD$LR•IPV4
-Channel 8,https://tzh911.qzz.io/play-smt.php?id=Channel8HD$LR•IPV4
-Channel U,https://tzh911.qzz.io/play-smt.php?id=ChannelU$LR•IPV4
-Nick Jr,https://tzh911.qzz.io/play-smt.php?id=Nickjr$LR•IPV4
-Nickelodeon,https://tzh911.qzz.io/play-smt.php?id=Nickelodeon$LR•IPV4
-Thrill,https://tzh911.qzz.io/play-smt.php?id=Thrill$LR•IPV4
+Channel 5,https://tzh911.qzz.io/play-smt.php?id=Channel5HD$LR•IPV4『线路1』
+Channel 5,http://156.239.254.7:5555/smt.php?id=Channel5HD$LR•IPV4『线路2』
+Channel 8,https://tzh911.qzz.io/play-smt.php?id=Channel8HD$LR•IPV4『线路1』
+Channel 8,http://156.239.254.7:5555/smt.php?id=Channel8HD$LR•IPV4『线路2』
+Channel U,https://tzh911.qzz.io/play-smt.php?id=ChannelU$LR•IPV4『线路1』
+Channel U,http://156.239.254.7:5555/smt.php?id=ChannelU$LR•IPV4『线路2』
+Nick Jr,https://tzh911.qzz.io/play-smt.php?id=Nickjr$LR•IPV4『线路1』
+Nick Jr,http://156.239.254.7:5555/smt.php?id=Nickjr$LR•IPV4『线路2』
+Nickelodeon,https://tzh911.qzz.io/play-smt.php?id=Nickelodeon$LR•IPV4『线路1』
+Nickelodeon,http://156.239.254.7:5555/smt.php?id=Nickelodeon$LR•IPV4『线路2』
+Thrill,https://tzh911.qzz.io/play-smt.php?id=Thrill$LR•IPV4『线路1』
+Thrill,http://156.239.254.7:5555/smt.php?id=Thrill$LR•IPV4『线路2』
 📡  台湾频道,#genre#
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$LR•IPV4
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$LR•IPV4『线路1』
@@ -418,13 +424,21 @@ CGTN,https://0472.org/hls/cgtn.m3u8$LR•IPV4『线路1』
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$LR•IPV4『线路2』
 BBC World News,https://tzh911.qzz.io/play-smt.php?id=bbcnews_twn$LR•IPV4『线路1』
 BBC World News,https://tzh911.qzz.io/play-smt.php?id=Bbcnews$LR•IPV4『线路2』
-BBC World News,https://tzh911.qzz.io/play-smt.php?id=bbcworldnews_antik$LR•IPV4『线路3』
-CNBC,https://tzh911.qzz.io/play-smt.php?id=cnbc_twn$LR•IPV4
-CNA,https://tzh911.qzz.io/play-smt.php?id=cna$LR•IPV4
-Euronews,https://tzh911.qzz.io/play-smt.php?id=euronews_antik$LR•IPV4
-Fox News,https://tzh911.qzz.io/play-smt.php?id=foxnews_twn$LR•IPV4
+BBC World News,http://156.239.254.7:5555/smt.php?id=bbcnews_twn$LR•IPV4『线路3』
+BBC World News,http://156.239.254.7:5555/smt.php?id=Bbcnews$LR•IPV4『线路4』
+BBC World News,https://tzh911.qzz.io/play-smt.php?id=bbcworldnews_antik$LR•IPV4『线路5』
+BBC World News,http://156.239.254.7:5555/smt.php?id=bbcworldnews_antik$LR•IPV4『线路6』
+CNBC,https://tzh911.qzz.io/play-smt.php?id=cnbc_twn$LR•IPV4『线路1』
+CNBC,http://156.239.254.7:5555/smt.php?id=cnbc_twn$LR•IPV4『线路2』
+CNA,https://tzh911.qzz.io/play-smt.php?id=cna$LR•IPV4『线路1』
+CNA,http://156.239.254.7:5555/smt.php?id=cna$LR•IPV4『线路2』
+Euronews,https://tzh911.qzz.io/play-smt.php?id=euronews_antik$LR•IPV4『线路1』
+Euronews,http://156.239.254.7:5555/smt.php?id=euronews_antik$LR•IPV4『线路2』
+Fox News,https://tzh911.qzz.io/play-smt.php?id=foxnews_twn$LR•IPV4『线路1』
+Fox News,http://156.239.254.7:5555/smt.php?id=foxnews_twn$LR•IPV4『线路2』
 📡  电影频道p2p,#genre#
-HBO Family,https://tzh911.qzz.io/play-smt.php?id=Hbofamily$LR•IPV4
+HBO Family,https://tzh911.qzz.io/play-smt.php?id=Hbofamily$LR•IPV4『线路1』
+HBO Family,http://156.239.254.7:5555/smt.php?id=Hbofamily$LR•IPV4『线路2』
 CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8$LR•IPV4『线路1』
 CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714$LR•IPV4『线路2』
 CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8$LR•IPV4『线路1』
