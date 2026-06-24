@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-2026-06-24,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+2026-06-25,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 📡  央视频道,#genre#
 CCTV1,http://112.46.85.60:8009/hls/501/index.m3u8$LR•IPV4『线路1』
 CCTV1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8$LR•IPV4『线路2』
