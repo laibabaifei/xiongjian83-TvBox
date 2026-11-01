@@ -1,8 +1,8 @@
-2026-11-01 04:51:02,048 - ERROR - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt
-2026-11-01 04:51:02,101 - ERROR - url: http://rihou.cc:567/gggg.nzk 爬取失败❌, Error: HTTPConnectionPool(host='rihou.cc', port=567): Max retries exceeded with url: /gggg.nzk (Caused by NameResolutionError("HTTPConnection(host='rihou.cc', port=567): Failed to resolve 'rihou.cc' ([Errno -5] No address associated with hostname)"))
-2026-11-01 04:51:02,132 - ERROR - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps:/jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php
-2026-11-01 04:51:02,793 - INFO - url: https://live.zbds.top/tv/iptv6.txt 获取成功，判断为txt格式
-2026-11-01 04:51:02,793 - INFO - url: https://live.zbds.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 更新时间
-2026-11-01 04:51:02,871 - INFO - url: https://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
-2026-11-01 04:51:02,872 - INFO - url: https://live.zbds.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 音乐频道, 春晚频道, 直播中国, 更新时间
-2026-11-01 04:51:03,556 - ERROR - url: http://live.nctv.top/x.png 爬取失败❌, Error: 404 Client Error: Not Found for url: http://live.nctv.top/x.png
+2026-11-01 11:41:23,666 - ERROR - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt
+2026-11-01 11:41:23,745 - ERROR - url: http://rihou.cc:567/gggg.nzk 爬取失败❌, Error: HTTPConnectionPool(host='rihou.cc', port=567): Max retries exceeded with url: /gggg.nzk (Caused by NameResolutionError("HTTPConnection(host='rihou.cc', port=567): Failed to resolve 'rihou.cc' ([Errno -5] No address associated with hostname)"))
+2026-11-01 11:41:23,939 - ERROR - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps:/jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php
+2026-11-01 11:41:25,358 - INFO - url: https://live.zbds.top/tv/iptv6.txt 获取成功，判断为txt格式
+2026-11-01 11:41:25,359 - INFO - url: https://live.zbds.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 更新时间
+2026-11-01 11:41:26,197 - INFO - url: https://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
+2026-11-01 11:41:26,198 - INFO - url: https://live.zbds.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 音乐频道, 春晚频道, 直播中国, 更新时间
+2026-11-01 11:41:26,960 - ERROR - url: http://live.nctv.top/x.png 爬取失败❌, Error: 404 Client Error: Not Found for url: http://live.nctv.top/x.png
